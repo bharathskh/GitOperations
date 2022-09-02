@@ -4,3 +4,5 @@ Performing some git operations
 
 This is commit one to push
 
+This is second commit to ignore (push is not required)
+
