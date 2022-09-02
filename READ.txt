@@ -1,4 +1,4 @@
-This is my git file
+s is my git file
 
 Performing some git operations
 
@@ -6,7 +6,13 @@ This is commit one to push
 
 This is second commit to ignore (push is not required)
 
-this is to test push again
+
+This commit is from master directly
+
+this is second commit for master branch directly
+
+
+
 
 This commit is to merge test to master
 
