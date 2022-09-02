@@ -9,6 +9,8 @@ This is second commit to ignore (push is not required)
 
 This commit is from master directly
 
+this is second commit for master branch directly
+
 
 
 
