@@ -8,3 +8,5 @@ This is second commit to ignore (push is not required)
 
 this is to test push again
 
+This commit is to merge test to master
+
