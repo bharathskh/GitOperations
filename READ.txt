@@ -12,3 +12,6 @@ This commit is to merge test to master
 
 This is to test rebase commit 1
 
+
+This is to test rebase commit 2
+
