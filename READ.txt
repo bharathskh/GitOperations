@@ -2,6 +2,8 @@ s is my git file
 
 adding test for rebase
 
+adding test for rebase 2
+
 Performing some git operations
 
 This is commit one to push
