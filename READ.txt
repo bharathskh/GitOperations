@@ -1,5 +1,7 @@
 s is my git file
 
+adding test for rebase
+
 Performing some git operations
 
 This is commit one to push
