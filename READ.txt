@@ -8,6 +8,8 @@ Performing some git operations
 
 This is commit one to push
 
+rebase commit in master
+
 This is second commit to ignore (push is not required)
 
 
